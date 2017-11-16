@@ -1,0 +1,26 @@
+{
+  "name": "liri",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AFellman01/LIRI.git"
+  },
+  "author": "Alex F.",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AFellman01/LIRI/issues"
+  },
+  "homepage": "https://github.com/AFellman01/LIRI#readme",
+  "dependencies": {
+    "omdb": "^0.8.0",
+    "request": "^2.83.0",
+    "require": "^2.4.20",
+    "spotify": "^0.3.0",
+    "twitter": "^1.7.1"
+  }
+}
